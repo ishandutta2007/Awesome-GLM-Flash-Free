@@ -40,6 +40,7 @@
 | **Verdent Desktop App** | **~$15M–$25M Est. Valuation** (Seed Funded) | Integrated as a zero-credit option inside the [Verdent](https://verdent.ai) multi-agent desktop application. | Starts at $19/mo (Starter plan with 320 credits/mo; top-ups from $20 for 340 credits) | 7-day free trial with 100 free credits upon signup |
 | **AgentRouter / TokenRouter** | **~$5M–$10M Est. Valuation** (Early-Stage Gateway) | Accessible through developer routing abstractions using free developer promotional tiers. | Pay-per-token starting at base provider rates; TokenRouter plans from $10/mo | AgentRouter: $50 referral + $100–$200 GitHub bonus & $25/day check-in credits; TokenRouter: 1-day trial or 1,000 req/month free plan |
 | **FreeBuff Coding Agent** | **<$1M Bootstrapped** (Indie / Ad-Supported) | Fully accessible at no cost on `freebuff.com` via developer-subsidised ads. | $0 / Free (100% ad-supported model, no subscription fees) | Free forever with unlimited prompts supported by in-CLI text ads (no credit card or API key required) |
+| **YYLO CLI** | **<$1M Bootstrapped** (Open Source, MIT) | Free open-source terminal orchestrator that drives coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel git worktrees with a typed task and merge lifecycle — BYOK: bring your own provider key, incl. the free Z.ai Flash tier via Claude-Code-compatible endpoints. | $0 (Open Source, MIT; BYOK — model rates from $0.00 on free provider tiers) | Free forever (MIT OSS); no credit card; unlimited orchestration with your own keys |
 
 ---
 
